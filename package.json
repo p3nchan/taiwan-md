@@ -23,7 +23,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@astrojs/rss": "^4.0.17",
+    "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.7.1",
     "astro": "^6.0.5",
     "gray-matter": "^4.0.3",
